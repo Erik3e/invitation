@@ -1,0 +1,6 @@
+.countdown-timer {
+  z-index: 12;
+  position: absolute;
+  left: 200px;
+  bottom: 0;
+}

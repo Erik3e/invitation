@@ -1,0 +1,10 @@
+.wedding-program-item {
+  display: flex;
+  gap: 25px;
+}
+
+.desc {
+  display: flex;
+  gap: 5px;
+  flex-direction: column;
+}
